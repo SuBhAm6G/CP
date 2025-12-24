@@ -13,3 +13,4 @@ for _ in range(t):
         moves+=(a+moves)-c
         print(moves)
     else: print(-1)
+    
